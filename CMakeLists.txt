@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.28)
+project(Study)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(FirstSection Section1/main.cpp)
+add_executable(Exercise1 Section2/Exercise1.cpp)
+add_executable(Exercise2 Section2/Exercise2.cpp)
+add_executable(Variables Section4/Variables.cpp)
+add_executable(VariableTypes Section4/VariableTypes.cpp)
+add_executable(Exercise3 Section4/Exercise3.cpp)
+add_executable(Unicode Section4/Unicode.cpp)
+add_executable(VariableSize Section4/VariableSize.cpp)
+add_executable(Constants Section4/Constant.cpp)
+add_executable(Functions Section5/Function.cpp)

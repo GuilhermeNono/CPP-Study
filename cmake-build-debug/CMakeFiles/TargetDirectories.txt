@@ -1,0 +1,12 @@
+C:/Builds/Study/cmake-build-debug/CMakeFiles/FirstSection.dir
+C:/Builds/Study/cmake-build-debug/CMakeFiles/Exercise1.dir
+C:/Builds/Study/cmake-build-debug/CMakeFiles/Exercise2.dir
+C:/Builds/Study/cmake-build-debug/CMakeFiles/Variables.dir
+C:/Builds/Study/cmake-build-debug/CMakeFiles/VariableTypes.dir
+C:/Builds/Study/cmake-build-debug/CMakeFiles/Exercise3.dir
+C:/Builds/Study/cmake-build-debug/CMakeFiles/Unicode.dir
+C:/Builds/Study/cmake-build-debug/CMakeFiles/VariableSize.dir
+C:/Builds/Study/cmake-build-debug/CMakeFiles/Constants.dir
+C:/Builds/Study/cmake-build-debug/CMakeFiles/Functions.dir
+C:/Builds/Study/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Builds/Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
